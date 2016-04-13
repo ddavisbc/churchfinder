@@ -1,3 +1,4 @@
 this is a test document.
 
 Robert is adding a line
+and Dot just added another.
